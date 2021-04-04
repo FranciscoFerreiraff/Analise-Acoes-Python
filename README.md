@@ -1,3 +1,5 @@
+<img src="Docs/ações-bolsa.jpg" alt="drawing" width="200"/>
+
 ## Análise de ações 
 
 Uma forma de analisar ações com Python aplicando Markowitz. Veja abaixo os requisitos.
