@@ -1,4 +1,4 @@
-<img src="Docs/ações-bolsa.jpg" alt="drawing" width="200"/>
+<img src="Docs/ações-bolsa.jpg" alt="drawing" width="400"/>
 
 ## Análise de ações 
 
