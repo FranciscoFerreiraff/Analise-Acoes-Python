@@ -1,6 +1,6 @@
 ## Análise de ações 
 
-Uma forma de analisar ações com Python. Veja abaixo os requisitos:
+Uma forma de analisar ações com Python, aplicando Markowitz. Veja abaixo os requisitos:
 >Nenhuma ação presente em código é uma recomendação e não há garantia de retorno futuro com base na metodologia.
 
 ### Requisitos:
